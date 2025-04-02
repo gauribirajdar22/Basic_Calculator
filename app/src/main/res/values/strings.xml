@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="text_name">HELLO WORLD</string>
+    <string name="todo">TODO</string>
+    <string name="plus">+</string>
+
+
+    <string name="multiply">*</string>
+    <string name="Divide">/</string>
+    <string name="minus">-</string>
+
+
+</resources>
